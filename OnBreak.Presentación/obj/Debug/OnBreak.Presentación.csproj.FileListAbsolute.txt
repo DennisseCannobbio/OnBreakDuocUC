@@ -1,0 +1,590 @@
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.Cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.Cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreak12-05\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.Cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojResolveAssemblyReference.cache
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.Cache
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+E:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+E:\Denni Instituto\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.baml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.baml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.g.cs
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación_MarkupCompile.lref
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe.config
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.exe
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Presentación.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\ControlzEx.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\App.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionClientes.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\AdministracionContrato.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\MainWindow.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoClientes.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\VentanaListadoContrato.baml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.g.resources
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.Properties.Resources.resources
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.GenerateResource.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Presentación\obj\Debug\OnBreak.Presentación.csproj.CopyComplete

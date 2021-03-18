@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OnBreakModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cenas">
+    <Key>
+      <PropertyRef Name="Numero" />
+    </Key>
+    <Property Name="Numero" Type="nvarchar" MaxLength="12" Nullable="false" />
+    <Property Name="IdTipoAmbientacion" Type="int" Nullable="false" />
+    <Property Name="MusicaAmbiental" Type="bit" Nullable="false" />
+    <Property Name="LocalOnBreak" Type="bit" Nullable="false" />
+    <Property Name="OtroLocalOnBreak" Type="bit" Nullable="false" />
+    <Property Name="ValorArriendo" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="RutCliente" />
+    </Key>
+    <Property Name="RutCliente" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="RazonSocial" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NombreContacto" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MailContacto" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Telefono" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="IdActividadEmpresa" Type="int" Nullable="false" />
+    <Property Name="IdTipoEmpresa" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cocktail">
+    <Key>
+      <PropertyRef Name="Numero" />
+    </Key>
+    <Property Name="Numero" Type="nvarchar" MaxLength="12" Nullable="false" />
+    <Property Name="IdTipoAmbientacion" Type="int" Nullable="false" />
+    <Property Name="Ambientacion" Type="bit" Nullable="false" />
+    <Property Name="MusicaAmbiental" Type="bit" Nullable="false" />
+    <Property Name="MusicaCliente" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CoffeeBreak">
+    <Key>
+      <PropertyRef Name="Numero" />
+    </Key>
+    <Property Name="Numero" Type="nvarchar" MaxLength="12" Nullable="false" />
+    <Property Name="Vegetariana" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Contrato">
+    <Key>
+      <PropertyRef Name="Numero" />
+    </Key>
+    <Property Name="Numero" Type="nvarchar" MaxLength="12" Nullable="false" />
+    <Property Name="Creacion" Type="datetime" Nullable="false" />
+    <Property Name="Termino" Type="datetime" Nullable="false" />
+    <Property Name="RutCliente" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="IdModalidad" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="IdTipoEvento" Type="int" Nullable="false" />
+    <Property Name="FechaHoraInicio" Type="datetime" Nullable="false" />
+    <Property Name="FechaHoraTermino" Type="datetime" Nullable="false" />
+    <Property Name="Asistentes" Type="int" Nullable="false" />
+    <Property Name="PersonalAdicional" Type="int" Nullable="false" />
+    <Property Name="Realizado" Type="bit" Nullable="false" />
+    <Property Name="ValorTotalContrato" Type="float" Nullable="false" />
+    <Property Name="Observaciones" Type="nvarchar" MaxLength="250" Nullable="false" />
+  </EntityType>
+  <Association Name="Contrato_Cenas_FK1">
+    <End Role="Contrato" Type="Self.Contrato" Multiplicity="1" />
+    <End Role="Cenas" Type="Self.Cenas" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Contrato">
+        <PropertyRef Name="Numero" />
+      </Principal>
+      <Dependent Role="Cenas">
+        <PropertyRef Name="Numero" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Contrato_Cliente_FK1">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Contrato" Type="Self.Contrato" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="RutCliente" />
+      </Principal>
+      <Dependent Role="Contrato">
+        <PropertyRef Name="RutCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Contrato_Cocktail_FK1">
+    <End Role="Contrato" Type="Self.Contrato" Multiplicity="1" />
+    <End Role="Cocktail" Type="Self.Cocktail" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Contrato">
+        <PropertyRef Name="Numero" />
+      </Principal>
+      <Dependent Role="Cocktail">
+        <PropertyRef Name="Numero" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Contrato_CoffeeBreak_FK1">
+    <End Role="Contrato" Type="Self.Contrato" Multiplicity="1" />
+    <End Role="CoffeeBreak" Type="Self.CoffeeBreak" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Contrato">
+        <PropertyRef Name="Numero" />
+      </Principal>
+      <Dependent Role="CoffeeBreak">
+        <PropertyRef Name="Numero" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OnBreakModelStoreContainer">
+    <EntitySet Name="Cenas" EntityType="Self.Cenas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cocktail" EntityType="Self.Cocktail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CoffeeBreak" EntityType="Self.CoffeeBreak" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Contrato" EntityType="Self.Contrato" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="Contrato_Cenas_FK1" Association="Self.Contrato_Cenas_FK1">
+      <End Role="Contrato" EntitySet="Contrato" />
+      <End Role="Cenas" EntitySet="Cenas" />
+    </AssociationSet>
+    <AssociationSet Name="Contrato_Cliente_FK1" Association="Self.Contrato_Cliente_FK1">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Contrato" EntitySet="Contrato" />
+    </AssociationSet>
+    <AssociationSet Name="Contrato_Cocktail_FK1" Association="Self.Contrato_Cocktail_FK1">
+      <End Role="Contrato" EntitySet="Contrato" />
+      <End Role="Cocktail" EntitySet="Cocktail" />
+    </AssociationSet>
+    <AssociationSet Name="Contrato_CoffeeBreak_FK1" Association="Self.Contrato_CoffeeBreak_FK1">
+      <End Role="Contrato" EntitySet="Contrato" />
+      <End Role="CoffeeBreak" EntitySet="CoffeeBreak" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

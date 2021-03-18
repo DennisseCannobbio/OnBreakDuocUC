@@ -1,0 +1,47 @@
+﻿<Controls:MetroWindow  x:Class="OnBreak.Presentación.VentanaListadoContrato"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak.Presentación"
+        mc:Ignorable="d"
+        Title="OnBreak - Listado de Clientes" Height="449" Width="1330" Icon="img/onbreak.ico">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="129*"/>
+            <ColumnDefinition Width="823*"/>
+            <ColumnDefinition Width="26*"/>
+            <ColumnDefinition Width="127*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dtgListarContrato" HorizontalAlignment="Left" Height="321" Margin="34,78,0,0" VerticalAlignment="Top" Width="785" Grid.ColumnSpan="2" SelectionMode="Single" SelectionUnit="FullRow"/>
+        <Button x:Name="btnMostrarListContratos" Content="Mostrar Contratos " Grid.Column="1" HorizontalAlignment="Left" Margin="800,84,0,0" VerticalAlignment="Top" Width="228"  Grid.ColumnSpan="3" Click="BtnMostrarListContratos_Click"/>
+        <Controls:Tile x:Name="btnVolver" Margin="10,10,70,363" Height="Auto" Width="49" Title="Volver" TitleFontSize="7" Click="BtnVolver_Click">
+            <Image Source="img/volver.png" Width="20" Height="20"></Image>
+        </Controls:Tile>
+        <GroupBox Grid.Column="1" Header="Filtros" HorizontalAlignment="Left" Height="260" Margin="717,139,0,0" VerticalAlignment="Top" Width="355" Grid.ColumnSpan="3">
+            <Grid x:Name="gridFiltro" HorizontalAlignment="Left" Height="228" VerticalAlignment="Top" Width="345" Margin="0,0,0,-3">
+                <TextBox x:Name="txtRutFiltro" HorizontalAlignment="Left" Height="23" Margin="12,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"
+                            Controls:TextBoxHelper.ClearTextButton="True"
+                            Controls:TextBoxHelper.Watermark="Ingrese su Rut"/>
+                <ComboBox x:Name="cmbTipoEventoFiltro" HorizontalAlignment="Left" Margin="12,143,0,0" VerticalAlignment="Top" Width="160" SelectionChanged="CmbTipoEventoFiltro_SelectionChanged"/>
+                <ComboBox x:Name="cmbModalidadServicioFiltro" HorizontalAlignment="Left" Margin="177,143,0,0" VerticalAlignment="Top" Width="158"/>
+                <Label x:Name="lblModalidadServicio" Content="Modalidad Servicio" HorizontalAlignment="Left" Height="26" Margin="192,107,0,0" VerticalAlignment="Top" Width="120"/>
+                <Label x:Name="lblTipodeEvento" Content="Tipo de Evento" HorizontalAlignment="Left" Margin="37,107,0,0" VerticalAlignment="Top" Width="120"/>
+                <Button x:Name="btnFiltrarList" Content="Filtrar" HorizontalAlignment="Left" Margin="116,183,0,0" VerticalAlignment="Top" Width="117" Click="BtnFiltrarList_Click"/>
+                <TextBox x:Name="txtNumero" HorizontalAlignment="Left" Height="23" Margin="177,63,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"
+                            Controls:TextBoxHelper.ClearTextButton="True"
+                            Controls:TextBoxHelper.Watermark="Ingrese Número Contrato"/>
+                <RadioButton x:Name="rbtRut" Content="Filtrar por RUT" HorizontalAlignment="Left" Margin="35,38,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rbtConNumb" Content="Filtrar por N°" HorizontalAlignment="Left" Margin="198,38,0,0" VerticalAlignment="Top"/>
+                <RadioButton x:Name="rbtNoFilter" Content="No filtrar por RUT ni Numero" HorizontalAlignment="Left" Margin="86,10,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="btnEditarContrato" Content="Editar Seleccionado" Grid.Column="1" HorizontalAlignment="Left" Margin="800,35,0,0" VerticalAlignment="Top" Width="228" Grid.ColumnSpan="3" Click="BtnEditarContrato_Click"/>
+        <Image x:Name="imgOBlogo" HorizontalAlignment="Left" Height="337" Margin="129,84,0,-3" VerticalAlignment="Top" Width="337" Source="img/logo_transparent_background.png" 
+               RenderOptions.BitmapScalingMode="NearestNeighbor" RenderOptions.EdgeMode="Aliased" Stretch="Fill" Opacity="0.45" Grid.Column="1"/>
+    </Grid>
+</Controls:MetroWindow>

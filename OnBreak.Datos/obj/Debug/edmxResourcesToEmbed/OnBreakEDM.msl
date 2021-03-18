@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OnBreakModelStoreContainer" CdmEntityContainer="OnBreakEntities">
+    <EntitySetMapping Name="Cenas">
+      <EntityTypeMapping TypeName="OnBreakModel.Cenas">
+        <MappingFragment StoreEntitySet="Cenas">
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="IdTipoAmbientacion" ColumnName="IdTipoAmbientacion" />
+          <ScalarProperty Name="MusicaAmbiental" ColumnName="MusicaAmbiental" />
+          <ScalarProperty Name="LocalOnBreak" ColumnName="LocalOnBreak" />
+          <ScalarProperty Name="OtroLocalOnBreak" ColumnName="OtroLocalOnBreak" />
+          <ScalarProperty Name="ValorArriendo" ColumnName="ValorArriendo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="OnBreakModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="RutCliente" ColumnName="RutCliente" />
+          <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+          <ScalarProperty Name="NombreContacto" ColumnName="NombreContacto" />
+          <ScalarProperty Name="MailContacto" ColumnName="MailContacto" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="IdActividadEmpresa" ColumnName="IdActividadEmpresa" />
+          <ScalarProperty Name="IdTipoEmpresa" ColumnName="IdTipoEmpresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cocktail">
+      <EntityTypeMapping TypeName="OnBreakModel.Cocktail">
+        <MappingFragment StoreEntitySet="Cocktail">
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="IdTipoAmbientacion" ColumnName="IdTipoAmbientacion" />
+          <ScalarProperty Name="Ambientacion" ColumnName="Ambientacion" />
+          <ScalarProperty Name="MusicaAmbiental" ColumnName="MusicaAmbiental" />
+          <ScalarProperty Name="MusicaCliente" ColumnName="MusicaCliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CoffeeBreak">
+      <EntityTypeMapping TypeName="OnBreakModel.CoffeeBreak">
+        <MappingFragment StoreEntitySet="CoffeeBreak">
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Vegetariana" ColumnName="Vegetariana" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contrato">
+      <EntityTypeMapping TypeName="OnBreakModel.Contrato">
+        <MappingFragment StoreEntitySet="Contrato">
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Creacion" ColumnName="Creacion" />
+          <ScalarProperty Name="Termino" ColumnName="Termino" />
+          <ScalarProperty Name="RutCliente" ColumnName="RutCliente" />
+          <ScalarProperty Name="IdModalidad" ColumnName="IdModalidad" />
+          <ScalarProperty Name="IdTipoEvento" ColumnName="IdTipoEvento" />
+          <ScalarProperty Name="FechaHoraInicio" ColumnName="FechaHoraInicio" />
+          <ScalarProperty Name="FechaHoraTermino" ColumnName="FechaHoraTermino" />
+          <ScalarProperty Name="Asistentes" ColumnName="Asistentes" />
+          <ScalarProperty Name="PersonalAdicional" ColumnName="PersonalAdicional" />
+          <ScalarProperty Name="Realizado" ColumnName="Realizado" />
+          <ScalarProperty Name="ValorTotalContrato" ColumnName="ValorTotalContrato" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

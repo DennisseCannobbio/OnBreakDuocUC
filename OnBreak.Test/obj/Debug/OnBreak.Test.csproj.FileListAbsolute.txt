@@ -1,0 +1,281 @@
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+D:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojResolveAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+F:\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Test.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Negocios.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.csproj.CopyComplete
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Test\obj\Debug\OnBreak.Test.pdb

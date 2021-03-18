@@ -1,0 +1,60 @@
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ProyectoOnBreakV6 - copia\ProyectoOnBreak\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+E:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+F:\Denni Instituto\Tercer Semestre\Desarrollo de Software\Examen Semestral\Producto\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+C:\Users\ironb\Desktop\ExamenSemestralV9.1 you can (not) save\ProyectoOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb
